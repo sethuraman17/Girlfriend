@@ -1,0 +1,17 @@
+/.vscode
+__pycache__
+/venv
+checkpoints/
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints
+logs
+data/
+lip_synced_ouput.mp4
+result_main.mp4
+test-bideo2.mp4
+voice_output.mp3
+results/
+.dockerignore
+Dockerfile
