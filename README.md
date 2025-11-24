@@ -1,3 +1,7 @@
+# Demo INTRO
+
+https://github.com/user-attachments/assets/ad0a27cb-5f67-4f98-b558-0f29be118b18
+
 # AI-Powered Lip-Sync Chatbot
 
 This project is an AI-powered chatbot that generates realistic lip-synced animations from a static image. It combines text-to-speech, deep learning-based lip-syncing, and a graphical user interface to create an interactive and engaging user experience.
@@ -17,6 +21,14 @@ The application follows a simple yet powerful workflow:
 2.  **Text-to-Speech**: The input text is converted into an audio file using Google's Text-to-Speech (gTTS) library.
 3.  **Lip-Sync Animation**: The generated audio and a static input image are passed to the Wav2Lip model, which creates a video file with the image's lips animated in sync with the audio.
 4.  **Video Playback**: The resulting video is played back in the GUI, creating the illusion of a talking character.
+
+# Test Image
+
+![test2](https://github.com/user-attachments/assets/45797274-9cdf-407f-b4df-15d7648b71c4)
+
+# After it gets life
+
+https://github.com/user-attachments/assets/0fd98dc0-d63b-45b9-8fc0-9c9a3ef90e6d
 
 ## Getting Started
 
